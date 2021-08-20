@@ -18,7 +18,7 @@ import os
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys 
 import urllib.request
-LOGIN  = "o_5ptj6mgsoj"
+LOGIN  = ""
 API_KEY = ""
 b = bitly_api.Connection(LOGIN, API_KEY)
 
