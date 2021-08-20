@@ -1,4 +1,7 @@
-# Media_Solution
+# Media_Solution - 비뉴
+
+
+![다운로드](https://user-images.githubusercontent.com/25142537/130180896-91f23877-7306-4838-9fda-c7da7701e7ae.png)
 
 ## 사용기술
 1.
